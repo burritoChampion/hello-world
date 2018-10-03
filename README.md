@@ -1,2 +1,4 @@
 # hello-world
-first
+Hello
+
+This is my thing
